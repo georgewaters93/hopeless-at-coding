@@ -1,0 +1,19 @@
+h2 {
+    font-size: 3em;
+    text-align:center;
+}
+
+p {
+    font-family:Arial;
+    text-decoration:none;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline
+}
+
+body {
+    background-color:floralwhite;
+    font-family:Arial;
+}
